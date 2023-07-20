@@ -110,7 +110,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>${REPO_URL}}/cloudgateway</image>
+						<image>${REPO_URL}/cloudgateway</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>
