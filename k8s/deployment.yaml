@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: cloud-gateway-app
-          image: dmanias/cloudgateway
+          image: IMAGE_URL/cloudgateway
           imagePullPolicy: Always
           ports:
             - containerPort: 9090
